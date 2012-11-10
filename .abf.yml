@@ -1,0 +1,8 @@
+sources:
+  "dkms-fcdslusb-dont-redefine-uintptr_t.patch:"	8722332974ced262e32a55a940e045f58c75d26e
+  "dkms-fcdslusb-remove-DECLARE_MUTEX_LOCKED.patch:"	9f12bb3422f71330081c3f3a6d1736f29485c490
+  "dkms-fcdslusb-remove-usb_driver_owner.patch:"	3be38f8fffdc9796af46491db2b29c4ebbbd107a
+  "dkms-fcdslusb-update-INIT_WORK-changes.patch:"	a26dbc9f4539f5007fca33e9772aa96225dc8f82
+  "dkms-fcdslusb-update-usb_complete_t-functions.patch:"	7d38bc5be2761540505dde798b5c59d437541aeb
+  "dkms-fcdslusb-use-autoconf-header.patch:"	985904e9b871e28e25e93f39e7c7a985dae03d31
+  "fcdslusb-suse93-3.11-07.tar.bz2:"	c4c4bc36d0ff4ff068cb17c766e95775e8fdb807
